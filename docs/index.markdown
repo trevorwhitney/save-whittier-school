@@ -10,3 +10,5 @@ layout: home
 
 Whittier ECE8 has been recommended to be closed by DPS and dispersed into other schools in the district.
 Here are some reasons why we think this is a bad idea, and resources to help you get involved if you agree.
+
+The best thing you can do right now is [Email The Board](mailto:Carrie_Olson@dpsk12.org,Xochitl_Gaytan@dpsk12.org,Auontai_Anderson@dpk12.org,Scott_Esserman1@dpsk12.org,Charmaine_Lindsay@dpsk12.org,Michelle_Quattlebaum@dpsk12.org,Scott_Baldermann@dpsk12.org?subject=Keep Whittier Open).
