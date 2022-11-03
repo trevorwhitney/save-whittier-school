@@ -97,7 +97,7 @@ The schools that the district proposes Whittier consolidate with have not all se
 | DSST: Cole                     | Charter     | 315              | 262              | <span class="red">-16.8% (decrease)</span>    |
 | Bruce Randolph                 | Traditional | 371              | 347              | <span class="red">-6.5% (decrease)</span>     |
 
-Insert something here about locations of new schools? Maybe how far away from Whittier they are and any major roads that students might need to cross getting there? I feel like a map of some sort to show how far away so many schools are might be helpful.
+Whittier ECE-8, as seen in the chart above, is the only school in the enrollment district with an _increase_ in enrollment, yet DPS is suggesting it be dissolved into the other schools. Despite multiple inquiries, DPS has failed or refused to provide the precise criteria they used to come to this conclusion. Our community agrees something needs to be done about declinig enrollment in DPS and the budget shortfall that creates, but we do not believe arbitrarily picking schools to close based on unclear critieria is the way to do it!
 
 ## DPS core values aren't at the core of this decision
 
