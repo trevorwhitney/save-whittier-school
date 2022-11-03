@@ -19,7 +19,7 @@ Whittier ECE8 has been recommended to be closed by DPS and dispersed into other 
 **<i class="fa-regular fa-calendar"></i> TODAY**
 
 1. Provide feedback with the district [form](https://docs.google.com/forms/d/e/1FAIpQLSd9QiSaAJvrG21kJNJuEIqAr5SB-_G2SqVyyZJ75WC6TadKDg/viewform)
-1. [Email the members of the School Board](mailto:Carrie_Olson@dpsk12.org,Xochitl_Gaytan@dpsk12.org,Auontai_Anderson@dpk12.org,Scott_Esserman1@dpsk12.org,Charmaine_Lindsay@dpsk12.org,Michelle_Quattlebaum@dpsk12.org,Scott_Baldermann@dpsk12.org?subject=Keep Whittier Open). - Share why Whittier is important to you, and feel free to grab data or information from the site below.
+1. [Email the members of the School Board](mailto:Carrie_Olson@dpsk12.org,Xochitl_Gaytan@dpsk12.org,Auontai_Anderson@dpsk12.org,Scott_Esserman1@dpsk12.org,Charmaine_Lindsay@dpsk12.org,Michelle_Quattlebaum@dpsk12.org,Scott_Baldermann@dpsk12.org?subject=Keep Whittier Open). - Share why Whittier is important to you, and feel free to grab data or information from the site below.
 
 **<i class="fa-regular fa-calendar"></i> November 3**
 
@@ -31,7 +31,7 @@ Sign up for public comment [here](https://docs.google.com/forms/d/e/1FAIpQLScvgz
 
 **<i class="fa-regular fa-calendar"></i> November 14**
 
-Attend the public comment forum.
+Attend the public comment forum from 430pm to 730pm at 1860 Lincoln St. Free parking to the north of the building at 19th and Lincoln. This is in-person only.
 
 **<i class="fa-regular fa-calendar"></i> November 17**
 
@@ -89,7 +89,6 @@ The schools that the district proposes Whittier consolidate with have not all se
 | School                         | Type        | Enrollment 20-21 | Enrollment 21-22 | Change in Enrollment |
 | ------------------------------ | ----------- | ---------------- | ---------------- | -------------------- |
 | Whittier ECE-8                 | Innovation  | 222              | 227              | <span class="green">+2.3% (increase)</span>     |
-| Wyatt Elementary               | Charter     | 183              | 179              | <span class="red">-2.2% (decrease)</span>|
 | Wyatt Elementary               | Charter     | 183              | 179              | <span class="red">-2.2% (decrease)</span>     |
 | University Prep                | Charter     | 364              | 303              | <span class="red">-16.8% (decrease</span>    |
 | Cole Arts and Sciences Academy | Innovation  | 281              | 276              | <span class="red">-1.8% (decrease)</span>     |
