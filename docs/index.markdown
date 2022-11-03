@@ -46,15 +46,15 @@ For a full history of Whittier ECE-8 please visit [Whittier ECE s History Page](
 
 The Whittier school has served as a shining light of educational and diversity values for Colorado, Denver, and the surrounding community since its founding.
 
-- The city’s first African-American teacher, Marie Anderson Greenwood, was hired by the Denver school system to teach first grade at Whittier Elementary School in 1938.
-- Mrs. Jessie Whaley Maxwell (1909-2002) was the first African-American Administrator in Denver Public Schools and the state of Colorado. She was named Principal of Whittier Elementary School in 1955, where she served until 1966.
+* The city’s first African-American teacher, Marie Anderson Greenwood, was hired by the Denver school system to teach first grade at Whittier Elementary School in 1938.
+* Mrs. Jessie Whaley Maxwell (1909-2002) was the first African-American Administrator in Denver Public Schools and the state of Colorado. She was named Principal of Whittier Elementary School in 1955, where she served until 1966.
 
 ## District Consolidation Plan
 
 A [Declining Enrollment Advisory Committee](https://www.dpsk12.org/declining-enrollment-advisory-committee/) was formed to create recommendations on how the district should address ongoing declining enrollment. The plan they recommended, that was accepted by Superintendent Alex Marrero, was to close ten schools: eight Denver elementary schools, one K-8 school, and one middle school. All 10 of the schools are district-run schools, with no charter schools included on the list or considered under the single published criteria for selecting which schools would close.
 
 <div class="new-schools">
-<p>The current proposal has Whittier being dissolved into the other schools in our enrollment zone (ECE-5 on left, 6-8 on right):</p>
+<p>The current proposal has Whittier being dissolved into the other schools in our enrollment zone (ECE-5 and 6-8 schools shown below):</p>
 <img src="/assets/elementary.png"/>
 <img src="/assets/middle.png"/>
 </div>
@@ -69,11 +69,11 @@ It is important to note that as Whittier ECE-8 is the only ECE-8 school included
 
 Denver Public Schools and the school board have given school communities no more than three weeks during the fall holiday season to announce, understand, “collaborate”, “engage”, and vote on the decision to close 10 district run schools, negatively impacting hundreds of families, thousands of students, and many dozens of educators/staffers.
 
-- On October 25th the [school closure plan](https://www.dpsk12.org/declining-enrollment-unification-plan/) was announced
-- On November 1st Whittier ECE-8 held a public meeting for the school community
-  - There was no school board representation at this meeting, although district representation there noted that other schools did have school board representation present at their respective meetings. This was the case even though ours is the ONLY school that will be disintegrated and dispersed to SIX DIFFERENT SCHOOLS, as opposed to being combined with another one or two schools.
-- On Thursday November 3rd the school board will hear a presentation to review this plan
-- On Thursday, November 17th the school board will vote on this plan
+* On October 25th the [school closure plan](https://www.dpsk12.org/declining-enrollment-unification-plan/) was announced
+* On November 1st Whittier ECE-8 held a public meeting for the school community
+  * There was no school board representation at this meeting, although district representation there noted that other schools did have school board representation present at their respective meetings. This was the case even though ours is the ONLY school that will be disintegrated and dispersed to SIX DIFFERENT SCHOOLS, as opposed to being combined with another one or two schools.
+* On Thursday November 3rd the school board will hear a presentation to review this plan
+* On Thursday, November 17th the school board will vote on this plan
 
 ## Data
 
@@ -109,6 +109,3 @@ Insert something here about locations of new schools? Maybe how far away from Wh
 | _Collaboration_: We honor the skills, talents, and perspectives each person brings to the team. We work with and support each other to reach our common goals. | The Whittier community was not engaged in the conversation around the school consolidation plan. As one student shared at the community meeting on November 1, “Nobody asked us if we wanted our school to be closed.” There was no collaboration in this decision. |
 | _Accountability_: We take responsibility for our work and commitments. We own our successes and mistakes. We seek clarity and actively pursue continuous improvement. | Whittier saw a 2.3% increase in enrollment between the 2021-2022 school year. Claiming that Whittier has declining enrollment is simply not true. DPS is not holding themselves accountable for accurate information or data-driven decision making. |
 | _Fun_: We create a place where people want to work. We value our relationships and celebrate each other. We value the opportunity to do meaningful and impactful work. We work in an environment that facilitates a healthy work life balance. | Our students love Whittier. Our teachers love Whittier. Our parents love Whittier. Our students and teachers will not be able to remain together under the consolidation plan. This is NOT FUN. |
-
-
-
