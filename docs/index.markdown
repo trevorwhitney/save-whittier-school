@@ -40,6 +40,10 @@ Attend the public comment forum from 430pm to 730pm at 1860 Lincoln St. Free par
 
 Attend the Board Meeting starting at 4:30 pm on Thursday November 17 at 1860 Lincoln Street and encourage the board to vote NO!
 
+<div class="callout">
+If you would like to get involved or have ideas on how to help, pleae join our <a href="https://groups.google.com/g/savewhittier"><i class="fa-solid fa-user-group"></i> Google Group</a>.
+</div>
+
 * TOC
 {:toc}
 
