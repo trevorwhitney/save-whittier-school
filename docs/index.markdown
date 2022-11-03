@@ -23,7 +23,7 @@ Whittier ECE8 has been recommended to be closed by DPS and dispersed into other 
 
 1. Provide feedback with the district [form](https://docs.google.com/forms/d/e/1FAIpQLSd9QiSaAJvrG21kJNJuEIqAr5SB-_G2SqVyyZJ75WC6TadKDg/viewform)
 1. [E-mail the members of the School Board](mailto:Carrie_Olson@dpsk12.org,Xochitl_Gaytan@dpsk12.org,Auontai_Anderson@dpsk12.org,Scott_Esserman1@dpsk12.org,Charmaine_Lindsay@dpsk12.org,Michelle_Quattlebaum@dpsk12.org,Scott_Baldermann@dpsk12.org?subject=Keep Whittier Open). - Share why Whittier is important to you, and feel free to grab data or information from the site below.
-1. Print some flyers to get the word out! Available in both [English](/assets/Whittier_SOS.pdf) and [Spanish](/assets/Whittier_SOS_espanol.pdf).
+1. Print some flyers to get the word out! Available in both [English](/assets/Whittier_SOS.pdf) and [Spanish](/assets/Whittier_SOS_ES.pdf).
 
 **<i class="fa-regular fa-calendar"></i> November 3**
 
