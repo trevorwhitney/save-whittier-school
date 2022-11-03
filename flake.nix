@@ -17,36 +17,35 @@
             overlays = [ ];
             config = { allowUnfree = true; };
           };
-          whittier = pkgs.stdenv.mkDerivation {
-            name = "save-whittier-school";
-            src = ./docs;
-            buildInputs = with pkgs; [ ruby bundler ];
-            installPhase = ''
-              mkdir -p $out/{bin,share/jekyll}
-              cp -r * $out/share/jekyll
-              bin=$out/bin/jekyll
-              # we are using bundle exec to start in the bundled environment
-              cat > $bin <<EOF
-                #!/bin/sh -e
-                pushd $out/share/jekyll
-                ${pkgs.bundler}/bin/bundle package --no-install --path vendor
-                ${pkgs.bundler}/bin/bundle exec jekyll "\$@"
-              EOF
-              chmod +x $bin
-            '';
+          jekyll = pkgs.bundlerApp {
+            pname = "jekyll";
+            exes = [ "jekyll" ];
+            gemdir = ./docs;
           };
         in
         {
           # The default package for 'nix build'. This makes sense if the
           # flake provides only one package or there is a clear "main"
           # package.
+          defaultPackage = jekyll;
 
           apps = {
+            build = {
+              type = "app";
+              program = with pkgs; "${
+                (writeShellScriptBin "build.sh" ''
+                  pushd docs > /dev/null || exit 1
+                  ${pkgs.bundler}/bin/bundler config set --local force_ruby_platform true
+                  ${pkgs.bundix}/bin/bundix -l
+                  popd > /dev/null || exit 1
+                '')
+              }/bin/build.sh";
+            };
             serve = {
               type = "app";
               program = with pkgs; "${
                 (writeShellScriptBin "serve.sh" ''
-                  ${whittier}/bin/jekyll serve -host 0.0.0.0
+                  ${jekyll}/bin/jekyll serve --source docs --host 0.0.0.0 --livereload
                 '')
               }/bin/serve.sh";
             };
@@ -56,6 +55,8 @@
             nativeBuildInputs = with pkgs; [
               ruby
               bundler
+              bundix
+              jekyll
             ];
           };
         });
