@@ -16,10 +16,13 @@ The announcement was framed as a done deal, this is not true!
 
 Whittier ECE8 has been recommended to be closed by DPS and dispersed into other schools in the district. Below are some reasons why we think this is a bad idea, and resources to help you get involved if you agree. Most importantly though, **You Can Help By Taking Action**.
 
+
+<a href="mailto:Carrie_Olson@dpsk12.org,Xochitl_Gaytan@dpsk12.org,Auontai_Anderson@dpsk12.org,Scott_Esserman1@dpsk12.org,Charmaine_Lindsay@dpsk12.org,Michelle_Quattlebaum@dpsk12.org,Scott_Baldermann@dpsk12.org?subject=Keep Whittier Open" class="email-button">E-mail The Board</a>
+
 **<i class="fa-regular fa-calendar"></i> TODAY**
 
 1. Provide feedback with the district [form](https://docs.google.com/forms/d/e/1FAIpQLSd9QiSaAJvrG21kJNJuEIqAr5SB-_G2SqVyyZJ75WC6TadKDg/viewform)
-1. [Email the members of the School Board](mailto:Carrie_Olson@dpsk12.org,Xochitl_Gaytan@dpsk12.org,Auontai_Anderson@dpsk12.org,Scott_Esserman1@dpsk12.org,Charmaine_Lindsay@dpsk12.org,Michelle_Quattlebaum@dpsk12.org,Scott_Baldermann@dpsk12.org?subject=Keep Whittier Open). - Share why Whittier is important to you, and feel free to grab data or information from the site below.
+1. [E-mail the members of the School Board](mailto:Carrie_Olson@dpsk12.org,Xochitl_Gaytan@dpsk12.org,Auontai_Anderson@dpsk12.org,Scott_Esserman1@dpsk12.org,Charmaine_Lindsay@dpsk12.org,Michelle_Quattlebaum@dpsk12.org,Scott_Baldermann@dpsk12.org?subject=Keep Whittier Open). - Share why Whittier is important to you, and feel free to grab data or information from the site below.
 
 **<i class="fa-regular fa-calendar"></i> November 3**
 
