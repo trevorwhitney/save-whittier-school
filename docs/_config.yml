@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   school in Denver, Colorado.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.savewhittierschool.com" # the base hostname & protocol for your site, e.g. http://example.com
+google_tag_manager_id: "GTM-NTFZBTP"
+google_analytics: "G-5K0LPMN1YC"
 
 # Build settings
 theme: minima

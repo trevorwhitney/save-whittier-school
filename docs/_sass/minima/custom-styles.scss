@@ -16,9 +16,7 @@ div.new-schools > img {
   padding: 2%;
 }
 
-a.email-button {
-  background-color: #4472c4;
-  color: white;
+a.button {
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -27,6 +25,16 @@ a.email-button {
   border-radius: 5px;
   margin: 30px auto;
   width: 50%;
+
+  &.email {
+    background-color: #4472c4;
+    color: white;
+  }
+
+  &.petition {
+    background-color: #EC2C22;
+    color: white;
+  }
 }
 
 div.callout {
