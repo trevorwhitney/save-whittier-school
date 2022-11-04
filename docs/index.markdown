@@ -6,8 +6,6 @@ layout: home
 title: Save Our School
 ---
 
-<script src="https://kit.fontawesome.com/d919f221ba.js" crossorigin="anonymous"></script>
-
 ![Eagle Pride](https://whittier.dpsk12.org/wp-content/uploads/sites/152/Whittier_Eagle_Horizontal_Web.jpg)
 
 On October 25th Denver Public Schools announced the intention to close Whittier ECE-8, along with nine other DPS schools. This closure would completely dismantle Whittier ECE-8 as a school option, forcing students into six different enrollment zone schools.
