@@ -117,3 +117,10 @@ Whittier ECE-8, as seen in the chart above, is the only school in the enrollment
 | _Collaboration_: We honor the skills, talents, and perspectives each person brings to the team. We work with and support each other to reach our common goals. | The Whittier community was not engaged in the conversation around the school consolidation plan. As one student shared at the community meeting on November 1, “Nobody asked us if we wanted our school to be closed.” There was no collaboration in this decision. |
 | _Accountability_: We take responsibility for our work and commitments. We own our successes and mistakes. We seek clarity and actively pursue continuous improvement. | Whittier saw a 2.3% increase in enrollment between the 2021-2022 school year. Claiming that Whittier has declining enrollment is simply not true. DPS is not holding themselves accountable for accurate information or data-driven decision making. |
 | _Fun_: We create a place where people want to work. We value our relationships and celebrate each other. We value the opportunity to do meaningful and impactful work. We work in an environment that facilitates a healthy work life balance. | Our students love Whittier. Our teachers love Whittier. Our parents love Whittier. Our students and teachers will not be able to remain together under the consolidation plan. This is NOT FUN. |
+
+## Additional Links / News
+
+* Devner Post [article](https://www.denverpost.com/2022/11/03/denver-school-closure-plan-list-dps/) about the clousre plan.
+* Greely tribune [article](https://www.greeleytribune.com/2022/11/04/denver-school-board-closures) about the closures.
+* Educate Denver [press release](https://educatedenver.org/press-release-october-28-2022).
+* CPR article [How Do We Stop This From Happening?](https://www.cpr.org/2022/10/31/how-do-we-stop-this-from-happening-parents-fret-that-school-closures-will-harm-kids/).
