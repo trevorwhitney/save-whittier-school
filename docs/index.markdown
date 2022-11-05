@@ -32,7 +32,11 @@ On Thursday, November 3rd at 4:30pm at 1860 Lincoln Street there will be a schoo
 
 **<i class="fa-regular fa-calendar"></i> 9:00 am Monday November 7th through 5:00 pm Thursday November 10th**
 
-Sign up for public comment [here](https://docs.google.com/forms/d/e/1FAIpQLScvgzFZ6GmYyjLgKaYZrgmicYAhhNYDTA3CN8mFNm3BRMvS_A/closedform)
+Sign up for public comment [here](https://docs.google.com/forms/d/e/1FAIpQLScvgzFZ6GmYyjLgKaYZrgmicYAhhNYDTA3CN8mFNm3BRMvS_A/closedform).
+
+**<i class="fa-regular fa-calendar"></i> Monday November 7th**
+
+Denver School Board Vice President Auon'tai Anderson will host a community circle moderated by RTD Director Shontel Lewis, starting at 6:30 at [2836 Welton St](https://goo.gl/maps/qCXf9tbtFTCPSPUG6). You can [RSVP via Facebook](https://fb.me/e/45D3xwDg9).
 
 **<i class="fa-regular fa-calendar"></i> November 14**
 
